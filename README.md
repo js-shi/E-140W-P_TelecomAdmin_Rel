@@ -5,3 +5,5 @@ Tested device:<br>
 E-140W-P<br>
 HW version: E140WV1B1<br>
 SW version: ASB_E140WV1.2S<br>
+
+The source code of this small tool is now hosted at https://github.com/js-shi/E-140W-P_TelecomAdmin .
